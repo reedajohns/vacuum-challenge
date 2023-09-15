@@ -1,0 +1,10 @@
+roboflow:
+  api_key: zZehudVV984QOf28TYFB
+  model: vacuum-challenge
+  version: 5
+video:
+  filename: robot_new_1.mov #kea_run_new_1.mov #reed_run_new_1.mov #vacuum_run_robot.mov #vacuum_run_kea.mov #vacuum_run_reed.mov
+  object_track: robot # robot or vacuum
+output:
+  save_output: True
+  save_path: output_video.mp4
