@@ -78,7 +78,7 @@ def run_inference(model, frame):
 # Main
 if __name__ == "__main__":
     # Read config file
-    config_path = '../config.yaml'  # you can modify this to the path of your config file
+    config_path = 'config.yaml'  # you can modify this to the path of your config file
     config = read_config(config_path)
     # Show content of config file
     print(config)  
