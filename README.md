@@ -61,8 +61,7 @@ For some reason my robot vacuum refused to go near the walls, but still interest
 
 ## Dependencies
 - OpenCV
-- Roboflow (or any compatible machine learning model handler)
-- (Other dependencies depending on the actual project setup)
+- Roboflow
 
 ## Notes
 As you can see in the videos, the tracking isn't perfect and improvements would be easy to make. The environment is in my living room with plently of natural light, which can be the enemy of computer vision projects! I also could spend much more time tuning the model, so it's not perfect. I'm sure with a little more time and effort, the results could be improved. But, I think it's a fun project and a good starting point for anyone interested in this type of project.
